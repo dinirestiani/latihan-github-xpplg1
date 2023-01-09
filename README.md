@@ -1,1 +1,3 @@
-# latihan-github-xpplg1
+Nama: Dini Restiani
+Kelas: X PPLG 1
+I LOVE CODING
